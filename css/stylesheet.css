@@ -1,0 +1,182 @@
+#img {
+    
+    height: 225px;
+    width: 300px;
+    border: #eeff00 solid;
+    text-align: center;
+    margin-left: 525px;
+    margin-top: 80px;
+}
+img{
+     height: 225px;
+    width: 300px;
+    }
+   #p1{
+   	margin-top: 15px;
+   	font-size: 70px;
+   	text-align: center;
+   	font-style: Arial;
+   } 
+  #aboutme{
+  	height: 40px;
+  	width: 190px;
+  	margin-left: 290px;
+  	background-color: #A9E2F3;
+  	text-align: center;
+  	font-size: 30px;
+  	border-radius: 150px;
+  	vertical-align: middle;
+  } 
+
+  #whatido{
+     height: 40px;
+  	width: 190px;
+  	margin-left: 100px;
+  	background-color: #A9E2F3;
+  	text-align: center;
+  	font-size: 30px;
+  	border-radius: 150px;
+
+  }
+  #mycontect{
+  	 height: 40px;
+  	width: 190px;
+  	margin-left: 100px;
+  	background-color: #A9E2F3;
+  	text-align: center;
+  	font-size: 30px;
+  	border-radius: 150px;
+
+  }
+  #table1{
+  }
+  #haboutme{
+            
+            margin-top: 250px;
+            text-align: center;
+            font-size: 40px;
+
+
+  }
+ /* #eaboutme tr td div{
+
+  	         text-align: center;
+  	         margin-top: 20px;
+  	         font-size: 25px;
+  	         background-color: #A9E2F3;
+  	         box-shadow: #FF4000;
+  	         border-radius:8px;
+              margin-bottom: 200px;
+
+  }
+  #eaboutme{
+
+  	    margin-left: 350px;
+  }*/
+  #p2{
+  	   font-size: 30px;
+  	   text-align: center;
+  	   font-color:#A9E2F3;
+  	   
+  	   
+  }
+  #project{
+
+  	font-size: 40px;
+  	text-align: center;
+  	margin-top: 300px;
+
+  }
+  
+
+
+ #cb{
+ 	height:45px;
+ 	width: 400px;
+ 	border-radius: 8px;
+ 	font-size: 30px;
+ 	text-align: center;
+ 	background-color: #A9E2F3;
+ 	margin-left: 450px;
+ 	border-radius: 8px;
+
+ }
+ #br{
+ 	height:45px;
+ 	width: 400px;
+ 	border-radius: 8px;
+ 	
+ 	font-size: 30px;
+ 	text-align: center;
+ 	background-color: #A9E2F3;
+ 	margin-left: 450px;
+ 	border: 10px #81F7D8;
+ 	border-radius:8px;
+ 	border
+ }
+ #jb{
+ 	height:45px;
+ 	width: 400px;
+ 	border-radius: 8px;
+ 	font-size: 30px;
+ 	text-align: center;
+ 	background-color: #A9E2F3;
+ 	margin-left: 450px;
+ 	border: 10px #81F7D8;
+ 	border-radius: 8px;
+ }
+ #tprojects{
+ 	margin-bottom: 10px;
+ 	border-top: #ffffff;
+ }
+ #gicon{
+     height: 40px;
+     width: 40px;
+
+ }
+ #home{
+     height: 40px;
+  	width: 190px;
+  	margin-left: 400px;
+  	
+  	text-align: center;
+  	font-size: 30px;
+  	border-radius: 150px;
+  	vertical-align: middle;
+
+ }
+ #ab{
+ 	  height: 40px;
+  	width: 190px;
+  	margin-left: 50px;
+  	
+  	text-align: center;
+  	font-size: 30px;
+  	border-radius: 150px;
+ }
+ #home{
+     height: 40px;
+  	width: 190px;
+  	margin-left: 400px;
+  	
+  	text-align: right;
+  	font-size: 30px;
+  	border-radius: 150px;
+  	vertical-align: middle;
+
+ }
+  #ab1{
+ 	  height: 40px;
+  	width: 190px;
+  	margin-left: 10px;
+  	
+  	text-align: left;
+  	font-size: 30px;
+  	border-radius: 150px;
+ }
+
+
+
+  
+
+  
