@@ -1,0 +1,132 @@
+
+
+	body{
+		background-color:#505050;
+	}
+	.name{
+		font-size: 70px;
+		color: white;
+		text-align: left;
+		
+	 
+	}
+	h1{
+		font-size: 40px;
+		color: #F5FBEF;
+		text-align: center;
+		vertical-align: center;
+	}
+	div p{
+		font-size: 25px;
+		color: #F5FBEF;
+		text-align: center;
+		vertical-align: center;
+
+	}
+	#d1{
+		position: fixed;
+		right: 16%;
+        text-decoration: none;
+        font-color:white;
+	   width: 40%;
+	     border-top-right:2px; 
+	      
+	      
+	}
+	table{
+		  text-align: center;
+	      font-size: 20px;
+	     border-spacing: 2px;
+	}
+	#td1{
+
+		text-decoration: none;
+		color: white;
+		border-spacing: 5px;
+		background-color: black;
+	}
+	img{
+		margin-top: 25px;
+		width: 33%;
+	    height: 30em;
+	    
+	    vertical-align: middle;
+	    
+	}
+	.img{
+		
+	     margin-top: 25px;
+		width: 100%;
+	    height: 30em;
+	    text-align: left;
+	    vertical-align: middle;
+	}
+	#d4  {
+		
+		width:40%;
+		text-align: center;
+		margin:auto;
+		vertical-align: center;
+		text-decoration: none;
+	}
+	.project{
+		width: 100%;
+		height: 300px;
+		font-color:white;
+		border:2px solid black;
+	    background-color: black;
+	    text-decoration: none;
+	}
+	.project tbody tr {
+		text-decoration: none;
+		color: white;
+		font-size: 25px;
+	}
+	.pr {
+		border-bottom: 2px solid #505050;
+
+	}
+	.cont{
+		text-align: center;
+		font-size: 20px;
+	color:white;
+	}
+	.tb{
+		width: 100%;
+	}
+	#quote{
+		position: absolute;
+		margin-left: 43%;
+		margin-top: -350px;
+		color: white;
+		font-size: 30px
+	}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color: #00BFFF;
+};
+
+#quote1{
+    position: absolute;
+	margin-left: 43%;	
+}
+/*
+#quote2{
+    position: absolute;
+		margin-left: 43%;
+		margin-top: -330px;
+		color: white;
+		font-size: 30px
+}
+#quote3{
+    position: absolute;
+		margin-left: 43%;
+		margin-top: -320px;
+		color: white;
+		font-size: 30px
+}*/
